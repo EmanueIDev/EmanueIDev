@@ -4,13 +4,15 @@
 
 - No momento encontro-me disponível para trabalhar em quaisquer projetos que venham à aparecer.
 
-<div display="flex" justify-items="center">
+<br>
+<br>
   
 <a href="https://github-readme-stats.vercel.app/api?username=EmanueIDev&show_icons=true&theme=dracula">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=EmanueIDev&show_icons=true&theme=dracula" />
   </a>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueIDev&layout=compact&theme=dracula)](https://github.com/EmanueIDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueIDev&theme=dracula)](https://github.com/EmanueIDev/github-readme-stats)
+
 
 
   
